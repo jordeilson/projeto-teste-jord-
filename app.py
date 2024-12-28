@@ -1,1 +1,1 @@
-print('Olá, estamos no nosso primeiro projeto!')
+print('Olá! esse é o meu primeiro projeto')
