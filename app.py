@@ -1,6 +1,6 @@
 print('Olá')
 
-def calculart_preco_combo(pizza, refrigerente):
+def calcular_preco_combo(pizza, refrigerente):
     total = pizza + refrigerante
     print(total)
 
